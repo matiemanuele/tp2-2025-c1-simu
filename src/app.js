@@ -60,4 +60,4 @@ app.get("/", (req, res) => {
 
 export default app;
 
-console.log("Hola para el commit");
+console.log("PARCIAL INTENTO 2");
